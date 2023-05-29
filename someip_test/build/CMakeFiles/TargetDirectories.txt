@@ -1,0 +1,5 @@
+/home/mkadam/vsiptst/build/CMakeFiles/service-example.dir
+/home/mkadam/vsiptst/build/CMakeFiles/client-example.dir
+/home/mkadam/vsiptst/build/CMakeFiles/subnot.dir
+/home/mkadam/vsiptst/build/CMakeFiles/edit_cache.dir
+/home/mkadam/vsiptst/build/CMakeFiles/rebuild_cache.dir
